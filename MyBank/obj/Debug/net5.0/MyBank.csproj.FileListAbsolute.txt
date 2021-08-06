@@ -1,0 +1,16 @@
+/home/ubuntu/coding/projects/MyBank/obj/Debug/net5.0/MyBank.csproj.AssemblyReference.cache
+/home/ubuntu/coding/projects/MyBank/obj/Debug/net5.0/MyBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/coding/projects/MyBank/obj/Debug/net5.0/MyBank.AssemblyInfoInputs.cache
+/home/ubuntu/coding/projects/MyBank/obj/Debug/net5.0/MyBank.AssemblyInfo.cs
+/home/ubuntu/coding/projects/MyBank/obj/Debug/net5.0/MyBank.csproj.CoreCompileInputs.cache
+/home/ubuntu/coding/projects/MyBank/bin/Debug/net5.0/MyBank
+/home/ubuntu/coding/projects/MyBank/bin/Debug/net5.0/MyBank.deps.json
+/home/ubuntu/coding/projects/MyBank/bin/Debug/net5.0/MyBank.runtimeconfig.json
+/home/ubuntu/coding/projects/MyBank/bin/Debug/net5.0/MyBank.runtimeconfig.dev.json
+/home/ubuntu/coding/projects/MyBank/bin/Debug/net5.0/MyBank.dll
+/home/ubuntu/coding/projects/MyBank/bin/Debug/net5.0/ref/MyBank.dll
+/home/ubuntu/coding/projects/MyBank/bin/Debug/net5.0/MyBank.pdb
+/home/ubuntu/coding/projects/MyBank/obj/Debug/net5.0/MyBank.dll
+/home/ubuntu/coding/projects/MyBank/obj/Debug/net5.0/ref/MyBank.dll
+/home/ubuntu/coding/projects/MyBank/obj/Debug/net5.0/MyBank.pdb
+/home/ubuntu/coding/projects/MyBank/obj/Debug/net5.0/MyBank.genruntimeconfig.cache
