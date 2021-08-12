@@ -8,7 +8,7 @@ namespace MyBank
         {
              var account = new BankAccount("Susans Money", 98988);
     
-        Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} dollars.");
+        Console.WriteLine($"Account number {account.Number} was created for {account.Owner} with {account.Balance} dollars.");
         }
     }
 }
